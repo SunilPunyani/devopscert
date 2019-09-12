@@ -1,6 +1,6 @@
 From devopsedu/webapp
 
-Add proj /var/www/html
+Add website /var/www/html
 
 Run rm /var/www/html/index.html
 
